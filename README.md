@@ -1,1 +1,1 @@
-# Curso de LaTeX basico
+# Curso básico de LaTeX
