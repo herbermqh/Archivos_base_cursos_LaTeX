@@ -1,10 +1,18 @@
 # Fdb version 3
-["pdflatex"] 1643475457 "caracteres especiales.tex" "caracteres especiales.pdf" "caracteres especiales" 1643475458
+["pdflatex"] 1643565244 "caracteres especiales.tex" "caracteres especiales.pdf" "caracteres especiales" 1643565245
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1643350060 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1643349905 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1643349905 1508 efecb4a315fe0975509670a272d75ef5 ""
+  "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1643349905 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1643349905 768 1321e9409b4137d6fb428ac9dc956269 ""
   "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1643349816 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1643349816 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1643349816 36281 c355509802a035cadc5f15869451dcee ""
   "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1643349816 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1643349816 32762 7fee39e011c23b3589931effd97b9702 ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1643349816 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1643349816 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1643349816 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "c:/texlive/2021/texmf-dist/tex/latex/base/bk10.clo" 1643350169 8289 dae9b652af6a0762062d3808722d1520 ""
   "c:/texlive/2021/texmf-dist/tex/latex/base/book.cls" 1643350169 23269 46aa9b22aad0e958412c5a46b0e46893 ""
   "c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1643350164 27164 3d5f7887a89df4eb2f6e86ba26ef3254 ""
@@ -12,8 +20,8 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1643350778 5063786 b549a54a13855779c666f1d0c852a3fe ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1643350827 1401558 5732cfaa4da74588a0f9b186451b06fe ""
   "c:/texlive/2021/texmf.cnf" 1643350764 713 e69b156964470283e0530f5060668171 ""
-  "caracteres especiales.aux" 1643475458 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "caracteres especiales.tex" 1643475456 95 59f5cec2c2bac06084940c69f5d1b276 ""
+  "caracteres especiales.aux" 1643565245 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "caracteres especiales.tex" 1643565243 261 32d9bad993f22b884186fd97f71a4bd1 ""
   (generated)
   "caracteres especiales.aux"
   "caracteres especiales.pdf"

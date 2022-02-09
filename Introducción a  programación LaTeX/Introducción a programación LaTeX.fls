@@ -1,9 +1,9 @@
-PWD C:/Users/heber/Documents/Archivos_base_cursos_LaTeX/Caracteres especiales
+PWD C:/Users/heber/Documents/Archivos_base_cursos_LaTeX/Introducci髇 a  programaci髇 LaTeX
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT caracteres especiales.tex
-OUTPUT caracteres especiales.log
+INPUT Introducci贸n a programaci贸n LaTeX.tex
+OUTPUT Introducci贸n a programaci贸n LaTeX.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/book.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/book.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/book.cls
@@ -30,23 +30,8 @@ INPUT c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./caracteres especiales.aux
-INPUT caracteres especiales.aux
-INPUT caracteres especiales.aux
-OUTPUT caracteres especiales.aux
-INPUT c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
-OUTPUT caracteres especiales.pdf
-INPUT c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT caracteres especiales.aux
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT ./Introducci贸n a programaci贸n LaTeX.aux
+INPUT Introducci贸n a programaci贸n LaTeX.aux
+INPUT Introducci贸n a programaci贸n LaTeX.aux
+OUTPUT Introducci贸n a programaci贸n LaTeX.aux
+INPUT Introducci贸n a programaci贸n LaTeX.aux
