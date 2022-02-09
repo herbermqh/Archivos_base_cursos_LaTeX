@@ -1,0 +1,17 @@
+*.log
+*.backindent
+*.aux
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.txt
+*.synctex
+*.synctex.gz
+*.toc
+*.ptc
+*.xdv
+*.tkzfonct.gnuplot
+*.tkzfonct.table
+
