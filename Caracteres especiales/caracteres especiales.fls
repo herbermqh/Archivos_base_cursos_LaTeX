@@ -1,42 +1,46 @@
 PWD /home/userh/Documents/Archivos_base_cursos_LaTeX/Caracteres especiales
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex-dev.fmt
+INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT caracteres especiales.tex
 OUTPUT caracteres especiales.log
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/book.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/bk10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/bk10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/bk10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/bk10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT extractbb --version
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./caracteres especiales.aux
 INPUT caracteres especiales.aux
 INPUT caracteres especiales.aux
 OUTPUT caracteres especiales.aux
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/ts1cmr.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/ts1cmr.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/ts1cmr.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex-dev/base/ts1cmr.fd
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
+OUTPUT caracteres especiales.pdf
+INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT caracteres especiales.aux
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb

@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage{float}
+\usepackage{lipsum}
+
+\begin{document}
+
+\lipsum[1-2]
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    $q$ & $q$ & $p \to  q$ \\
+    \hline
+    0 & 0 & 1\\
+    0 & 1 & 1\\
+    \cline{1-2}
+    1 & 0 & 0\\
+    1 & 1 & 1\\
+    \hline
+  \end{tabular}
+  \caption{Tabla de verdad de la implicación}
+  \label{tab:implicacion}
+\end{table}
+
+La \ref{tab:implicacion} es una tabla de verdad de la implicación.
+
+
+
+
+
+\end{document}
+
