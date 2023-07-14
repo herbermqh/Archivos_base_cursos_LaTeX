@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}hola}
+\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}bf} Hola mundo\PYG{n+nb}{\PYGZcb{}}
+\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{a }\PYG{o}{+}\PYG{n+nb}{ b }\PYG{o}{+}\PYG{n+nb}{ c}\PYG{l+s}{\PYGZdl{}}
+\PYG{n+nb}{\PYGZam{}}
+\PYGZsh{}
+\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{a\PYGZca{}}\PYG{l+m}{2}\PYG{l+s}{\PYGZdl{}}
+\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{a\PYGZus{}}\PYG{l+m}{2}\PYG{l+s}{\PYGZdl{}}
+\end{Verbatim}
